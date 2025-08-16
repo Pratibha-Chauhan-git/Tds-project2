@@ -1,6 +1,5 @@
 # ⚡ Data Analyst Agent — Your AI-Powered Data Companion  
 > Smarter, faster, and more intuitive analysis of your datasets using **Generative AI + Python magic.**  
-> Repository: *Insert your GitHub repo link here*
 
 ---
 
@@ -35,7 +34,7 @@ Perfect for:
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone the Repo  - git clone https://github.com/your-username/data-analyst-agent.git
+### 1️⃣ Clone the Repo  - git clone https://github.com/Pratibha-Chauhan-git/Tds-project2.git
 cd data-analyst-agent
 
 ### 2️⃣ Install Requirements  - pip install -r requirements.txt
